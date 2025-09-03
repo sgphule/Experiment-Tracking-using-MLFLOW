@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/890250534217033945/d12b4299d19f4a20b5a32c78f1900f2e/artifacts
+end_time: 1756932164781
+entry_point_name: ''
+experiment_id: '890250534217033945'
+lifecycle_stage: active
+run_id: d12b4299d19f4a20b5a32c78f1900f2e
+run_name: charming-mouse-994
+run_uuid: d12b4299d19f4a20b5a32c78f1900f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756932153024
+status: 3
+tags: []
+user_id: sgphu

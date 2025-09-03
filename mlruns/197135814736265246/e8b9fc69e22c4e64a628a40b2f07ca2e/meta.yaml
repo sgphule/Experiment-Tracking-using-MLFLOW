@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/197135814736265246/e8b9fc69e22c4e64a628a40b2f07ca2e/artifacts
+end_time: 1756932369217
+entry_point_name: ''
+experiment_id: '197135814736265246'
+lifecycle_stage: active
+run_id: e8b9fc69e22c4e64a628a40b2f07ca2e
+run_name: receptive-colt-303
+run_uuid: e8b9fc69e22c4e64a628a40b2f07ca2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756932359244
+status: 3
+tags: []
+user_id: sgphu
