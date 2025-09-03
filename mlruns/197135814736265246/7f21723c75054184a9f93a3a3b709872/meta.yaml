@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/197135814736265246/7f21723c75054184a9f93a3a3b709872/artifacts
+end_time: 1756927459602
+entry_point_name: ''
+experiment_id: '197135814736265246'
+lifecycle_stage: active
+run_id: 7f21723c75054184a9f93a3a3b709872
+run_name: sneaky-snipe-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756927447586
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/197135814736265246/6c0173b785604840b04db8db5891be23/artifacts
+end_time: 1756930642209
+entry_point_name: ''
+experiment_id: '197135814736265246'
+lifecycle_stage: active
+run_id: 6c0173b785604840b04db8db5891be23
+run_name: capricious-foal-284
+run_uuid: 6c0173b785604840b04db8db5891be23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756930641318
+status: 4
+tags: []
+user_id: sgphu
