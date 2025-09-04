@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/0f798fced3014b628c9416f81bd45221/artifacts
+end_time: 1756972092220
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 0f798fced3014b628c9416f81bd45221
+run_name: invincible-hen-708
+run_uuid: 0f798fced3014b628c9416f81bd45221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972091973
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/2e0585d6b27e4d309108502b576c58cb/artifacts
+end_time: 1756934428237
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 2e0585d6b27e4d309108502b576c58cb
+run_name: painted-gnat-554
+run_uuid: 2e0585d6b27e4d309108502b576c58cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934428073
+status: 3
+tags: []
+user_id: sgphu

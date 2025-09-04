@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/50217c65d9c24dc7b0386722ec7c7634/artifacts
+end_time: 1756972090462
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 50217c65d9c24dc7b0386722ec7c7634
+run_name: redolent-doe-621
+run_uuid: 50217c65d9c24dc7b0386722ec7c7634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972090135
+status: 3
+tags: []
+user_id: sgphu

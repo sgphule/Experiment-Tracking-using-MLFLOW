@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/a57586bc7d3241a58ada7c2ed14ef6cc/artifacts
+end_time: 1756934240222
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: a57586bc7d3241a58ada7c2ed14ef6cc
+run_name: magnificent-mule-763
+run_uuid: a57586bc7d3241a58ada7c2ed14ef6cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934239745
+status: 3
+tags: []
+user_id: sgphu

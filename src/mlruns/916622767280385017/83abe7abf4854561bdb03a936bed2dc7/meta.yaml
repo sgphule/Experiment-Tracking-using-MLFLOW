@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/83abe7abf4854561bdb03a936bed2dc7/artifacts
+end_time: 1756934241549
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 83abe7abf4854561bdb03a936bed2dc7
+run_name: fortunate-conch-554
+run_uuid: 83abe7abf4854561bdb03a936bed2dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934240451
+status: 3
+tags: []
+user_id: sgphu

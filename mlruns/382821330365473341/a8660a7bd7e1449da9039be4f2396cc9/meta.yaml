@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/a8660a7bd7e1449da9039be4f2396cc9/artifacts
+end_time: 1756972090081
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: a8660a7bd7e1449da9039be4f2396cc9
+run_name: stately-sheep-841
+run_uuid: a8660a7bd7e1449da9039be4f2396cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972089713
+status: 3
+tags: []
+user_id: sgphu

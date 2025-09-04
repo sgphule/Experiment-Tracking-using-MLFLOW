@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/2f7d06e10c6e4a2f9897b7fcb5608c87/artifacts
+end_time: 1756971106667
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 2f7d06e10c6e4a2f9897b7fcb5608c87
+run_name: big-elk-403
+run_uuid: 2f7d06e10c6e4a2f9897b7fcb5608c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971106479
+status: 3
+tags: []
+user_id: sgphu

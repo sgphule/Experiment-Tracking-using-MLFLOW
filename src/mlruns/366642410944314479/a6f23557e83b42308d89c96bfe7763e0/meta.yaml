@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/a6f23557e83b42308d89c96bfe7763e0/artifacts
+end_time: 1756969927669
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: a6f23557e83b42308d89c96bfe7763e0
+run_name: zealous-bass-794
+run_uuid: a6f23557e83b42308d89c96bfe7763e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969927545
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/9f19366c117a42568472519851363700/artifacts
+end_time: 1756970598802
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 9f19366c117a42568472519851363700
+run_name: abrasive-dove-353
+run_uuid: 9f19366c117a42568472519851363700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970574631
+status: 3
+tags: []
+user_id: sgphu

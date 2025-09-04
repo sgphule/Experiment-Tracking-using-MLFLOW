@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/156783a28e6a4017be4717b929cee4d2/artifacts
+end_time: 1756970947905
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 156783a28e6a4017be4717b929cee4d2
+run_name: monumental-ram-563
+run_uuid: 156783a28e6a4017be4717b929cee4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970947697
+status: 3
+tags: []
+user_id: sgphu

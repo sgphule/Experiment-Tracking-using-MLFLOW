@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/11631067425e458fbda0a5622e759c47/artifacts
+end_time: 1756970315103
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 11631067425e458fbda0a5622e759c47
+run_name: treasured-goat-370
+run_uuid: 11631067425e458fbda0a5622e759c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970314845
+status: 3
+tags: []
+user_id: sgphu

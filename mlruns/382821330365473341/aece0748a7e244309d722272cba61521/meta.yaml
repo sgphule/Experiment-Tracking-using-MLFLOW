@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/aece0748a7e244309d722272cba61521/artifacts
+end_time: 1756972091680
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: aece0748a7e244309d722272cba61521
+run_name: mysterious-skunk-229
+run_uuid: aece0748a7e244309d722272cba61521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972091213
+status: 3
+tags: []
+user_id: sgphu

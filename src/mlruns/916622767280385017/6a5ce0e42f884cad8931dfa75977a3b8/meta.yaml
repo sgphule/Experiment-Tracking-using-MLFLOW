@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/6a5ce0e42f884cad8931dfa75977a3b8/artifacts
+end_time: 1756969659755
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 6a5ce0e42f884cad8931dfa75977a3b8
+run_name: orderly-worm-697
+run_uuid: 6a5ce0e42f884cad8931dfa75977a3b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969659585
+status: 3
+tags: []
+user_id: sgphu

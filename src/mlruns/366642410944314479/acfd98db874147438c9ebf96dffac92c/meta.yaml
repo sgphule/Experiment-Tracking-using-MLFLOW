@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/acfd98db874147438c9ebf96dffac92c/artifacts
+end_time: 1756969928042
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: acfd98db874147438c9ebf96dffac92c
+run_name: defiant-dolphin-198
+run_uuid: acfd98db874147438c9ebf96dffac92c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969927873
+status: 3
+tags: []
+user_id: sgphu

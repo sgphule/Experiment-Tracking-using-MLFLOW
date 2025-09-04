@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/e7a055b771e44f77855c3ec833fcb872/artifacts
+end_time: 1756970314660
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: e7a055b771e44f77855c3ec833fcb872
+run_name: loud-carp-144
+run_uuid: e7a055b771e44f77855c3ec833fcb872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970314493
+status: 3
+tags: []
+user_id: sgphu

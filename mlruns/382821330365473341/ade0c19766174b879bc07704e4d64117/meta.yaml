@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/ade0c19766174b879bc07704e4d64117/artifacts
+end_time: 1756971103795
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: ade0c19766174b879bc07704e4d64117
+run_name: carefree-hawk-433
+run_uuid: ade0c19766174b879bc07704e4d64117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971103532
+status: 3
+tags: []
+user_id: sgphu

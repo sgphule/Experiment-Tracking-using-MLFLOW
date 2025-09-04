@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/d849616bf903463d8d733cc0ef4c1c74/artifacts
+end_time: 1756970780776
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: d849616bf903463d8d733cc0ef4c1c74
+run_name: upbeat-snail-382
+run_uuid: d849616bf903463d8d733cc0ef4c1c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970780272
+status: 3
+tags: []
+user_id: sgphu

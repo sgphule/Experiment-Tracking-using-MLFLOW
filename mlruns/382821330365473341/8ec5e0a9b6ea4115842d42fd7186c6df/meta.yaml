@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/8ec5e0a9b6ea4115842d42fd7186c6df/artifacts
+end_time: 1756970880071
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 8ec5e0a9b6ea4115842d42fd7186c6df
+run_name: melodic-wasp-465
+run_uuid: 8ec5e0a9b6ea4115842d42fd7186c6df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970879901
+status: 3
+tags: []
+user_id: sgphu

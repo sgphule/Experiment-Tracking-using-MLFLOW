@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/9a2ce76ebd074307aebd01250222c388/artifacts
+end_time: 1756970780243
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 9a2ce76ebd074307aebd01250222c388
+run_name: industrious-roo-532
+run_uuid: 9a2ce76ebd074307aebd01250222c388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970780066
+status: 3
+tags: []
+user_id: sgphu

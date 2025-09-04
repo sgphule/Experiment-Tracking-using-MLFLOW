@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/ac8425c3c8004723b1b94e698619927a/artifacts
+end_time: 1756971104988
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: ac8425c3c8004723b1b94e698619927a
+run_name: unequaled-horse-160
+run_uuid: ac8425c3c8004723b1b94e698619927a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971104813
+status: 3
+tags: []
+user_id: sgphu

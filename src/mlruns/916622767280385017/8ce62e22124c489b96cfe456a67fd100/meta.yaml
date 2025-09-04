@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/8ce62e22124c489b96cfe456a67fd100/artifacts
+end_time: 1756969657041
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 8ce62e22124c489b96cfe456a67fd100
+run_name: caring-ant-665
+run_uuid: 8ce62e22124c489b96cfe456a67fd100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969656827
+status: 3
+tags: []
+user_id: sgphu

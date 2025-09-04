@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341
+creation_time: 1756970867695
+experiment_id: '382821330365473341'
+last_update_time: 1756970867695
+lifecycle_stage: active
+name: breast-cancer-rf-hpt

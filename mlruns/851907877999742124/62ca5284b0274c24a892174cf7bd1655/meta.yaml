@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/851907877999742124/62ca5284b0274c24a892174cf7bd1655/artifacts
+end_time: 1756971201350
+entry_point_name: ''
+experiment_id: '851907877999742124'
+lifecycle_stage: active
+run_id: 62ca5284b0274c24a892174cf7bd1655
+run_name: glamorous-colt-550
+run_uuid: 62ca5284b0274c24a892174cf7bd1655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971201043
+status: 3
+tags: []
+user_id: sgphu

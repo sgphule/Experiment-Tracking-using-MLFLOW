@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/bb228e8abe094debaf1703111b66899c/artifacts
+end_time: 1756971105908
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: bb228e8abe094debaf1703111b66899c
+run_name: treasured-cub-643
+run_uuid: bb228e8abe094debaf1703111b66899c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971105593
+status: 3
+tags: []
+user_id: sgphu

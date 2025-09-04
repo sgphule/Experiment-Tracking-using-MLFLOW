@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/484065481b7244b58088924a4b485d90/artifacts
+end_time: 1756933980870
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 484065481b7244b58088924a4b485d90
+run_name: victorious-cod-739
+run_uuid: 484065481b7244b58088924a4b485d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756933980687
+status: 3
+tags: []
+user_id: sgphu

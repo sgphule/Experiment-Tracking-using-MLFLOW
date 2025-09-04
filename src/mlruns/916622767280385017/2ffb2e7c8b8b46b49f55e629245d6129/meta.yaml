@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/2ffb2e7c8b8b46b49f55e629245d6129/artifacts
+end_time: 1756969657525
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 2ffb2e7c8b8b46b49f55e629245d6129
+run_name: nosy-dog-427
+run_uuid: 2ffb2e7c8b8b46b49f55e629245d6129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969657251
+status: 3
+tags: []
+user_id: sgphu

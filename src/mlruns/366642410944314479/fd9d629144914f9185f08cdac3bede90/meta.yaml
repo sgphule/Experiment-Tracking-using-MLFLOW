@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/fd9d629144914f9185f08cdac3bede90/artifacts
+end_time: 1756970316036
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: fd9d629144914f9185f08cdac3bede90
+run_name: marvelous-snail-52
+run_uuid: fd9d629144914f9185f08cdac3bede90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970315875
+status: 3
+tags: []
+user_id: sgphu

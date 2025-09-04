@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/c087e59053294f17a567ceec698aefd1/artifacts
+end_time: 1756970878710
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: c087e59053294f17a567ceec698aefd1
+run_name: learned-mouse-221
+run_uuid: c087e59053294f17a567ceec698aefd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970878551
+status: 3
+tags: []
+user_id: sgphu

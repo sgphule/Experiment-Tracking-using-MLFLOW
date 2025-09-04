@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/f0088a6b524d4b8ebcc5ab4e456f0819/artifacts
+end_time: 1756970879872
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: f0088a6b524d4b8ebcc5ab4e456f0819
+run_name: overjoyed-shark-344
+run_uuid: f0088a6b524d4b8ebcc5ab4e456f0819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970879741
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/6e7164b32f614e93a3c1c397323f9158/artifacts
+end_time: 1756970947164
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 6e7164b32f614e93a3c1c397323f9158
+run_name: lyrical-fawn-790
+run_uuid: 6e7164b32f614e93a3c1c397323f9158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970946974
+status: 3
+tags: []
+user_id: sgphu

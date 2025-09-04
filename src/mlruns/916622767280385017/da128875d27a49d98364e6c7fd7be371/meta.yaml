@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/da128875d27a49d98364e6c7fd7be371/artifacts
+end_time: 1756934228618
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: da128875d27a49d98364e6c7fd7be371
+run_name: powerful-sponge-806
+run_uuid: da128875d27a49d98364e6c7fd7be371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934228495
+status: 3
+tags: []
+user_id: sgphu

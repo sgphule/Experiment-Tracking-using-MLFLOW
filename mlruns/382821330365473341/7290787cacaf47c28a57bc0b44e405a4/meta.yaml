@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/7290787cacaf47c28a57bc0b44e405a4/artifacts
+end_time: 1756970948895
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 7290787cacaf47c28a57bc0b44e405a4
+run_name: flawless-jay-448
+run_uuid: 7290787cacaf47c28a57bc0b44e405a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970948741
+status: 3
+tags: []
+user_id: sgphu

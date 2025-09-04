@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/9e81686496b048f2a1321b1a1e197160/artifacts
+end_time: 1756971105540
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 9e81686496b048f2a1321b1a1e197160
+run_name: salty-panda-134
+run_uuid: 9e81686496b048f2a1321b1a1e197160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971105349
+status: 3
+tags: []
+user_id: sgphu

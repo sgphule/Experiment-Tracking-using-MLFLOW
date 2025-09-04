@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/3917e631f1624b51bec716c5dee484e1/artifacts
+end_time: 1756970783327
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 3917e631f1624b51bec716c5dee484e1
+run_name: overjoyed-dog-544
+run_uuid: 3917e631f1624b51bec716c5dee484e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970783151
+status: 3
+tags: []
+user_id: sgphu

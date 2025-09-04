@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/851907877999742124/f764f7c44b1541fab5fe8f1ee222971e/artifacts
+end_time: 1756971199114
+entry_point_name: ''
+experiment_id: '851907877999742124'
+lifecycle_stage: active
+run_id: f764f7c44b1541fab5fe8f1ee222971e
+run_name: blushing-pug-146
+run_uuid: f764f7c44b1541fab5fe8f1ee222971e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971198851
+status: 3
+tags: []
+user_id: sgphu

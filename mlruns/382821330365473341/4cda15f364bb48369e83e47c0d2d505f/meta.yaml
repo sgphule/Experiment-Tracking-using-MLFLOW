@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/4cda15f364bb48369e83e47c0d2d505f/artifacts
+end_time: 1756970948103
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 4cda15f364bb48369e83e47c0d2d505f
+run_name: luxuriant-foal-515
+run_uuid: 4cda15f364bb48369e83e47c0d2d505f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970947944
+status: 3
+tags: []
+user_id: sgphu

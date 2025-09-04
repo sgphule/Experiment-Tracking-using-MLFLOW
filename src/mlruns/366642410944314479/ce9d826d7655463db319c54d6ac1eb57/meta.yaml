@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/ce9d826d7655463db319c54d6ac1eb57/artifacts
+end_time: 1756969926913
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: ce9d826d7655463db319c54d6ac1eb57
+run_name: grandiose-hog-337
+run_uuid: ce9d826d7655463db319c54d6ac1eb57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969926752
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/cf681f7fd50b43c9b8b6f667b05f3d37/artifacts
+end_time: 1756970783516
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: cf681f7fd50b43c9b8b6f667b05f3d37
+run_name: receptive-rook-824
+run_uuid: cf681f7fd50b43c9b8b6f667b05f3d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970783359
+status: 3
+tags: []
+user_id: sgphu

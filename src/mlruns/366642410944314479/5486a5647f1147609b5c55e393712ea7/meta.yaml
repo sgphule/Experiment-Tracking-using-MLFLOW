@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/5486a5647f1147609b5c55e393712ea7/artifacts
+end_time: 1756970316394
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 5486a5647f1147609b5c55e393712ea7
+run_name: able-turtle-774
+run_uuid: 5486a5647f1147609b5c55e393712ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970316242
+status: 3
+tags: []
+user_id: sgphu

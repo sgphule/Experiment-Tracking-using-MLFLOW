@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/dc377f5972a84c65beeb5b1f40861fef/artifacts
+end_time: 1756972092444
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: dc377f5972a84c65beeb5b1f40861fef
+run_name: wistful-zebra-825
+run_uuid: dc377f5972a84c65beeb5b1f40861fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972092265
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/d97e1605346348fc88b5a3eed80b2f3b/artifacts
+end_time: 1756934427948
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: d97e1605346348fc88b5a3eed80b2f3b
+run_name: nimble-lynx-16
+run_uuid: d97e1605346348fc88b5a3eed80b2f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934427823
+status: 3
+tags: []
+user_id: sgphu

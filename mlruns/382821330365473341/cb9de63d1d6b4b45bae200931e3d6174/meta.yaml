@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/cb9de63d1d6b4b45bae200931e3d6174/artifacts
+end_time: 1756970949117
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: cb9de63d1d6b4b45bae200931e3d6174
+run_name: bold-roo-803
+run_uuid: cb9de63d1d6b4b45bae200931e3d6174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970948926
+status: 3
+tags: []
+user_id: sgphu

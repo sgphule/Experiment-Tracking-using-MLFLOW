@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/ea0326e472dd45679c5720c491fe54a4/artifacts
+end_time: 1756971104382
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: ea0326e472dd45679c5720c491fe54a4
+run_name: angry-ox-988
+run_uuid: ea0326e472dd45679c5720c491fe54a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971104199
+status: 3
+tags: []
+user_id: sgphu

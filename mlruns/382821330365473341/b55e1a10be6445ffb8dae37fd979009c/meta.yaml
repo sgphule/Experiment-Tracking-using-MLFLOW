@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/b55e1a10be6445ffb8dae37fd979009c/artifacts
+end_time: 1756970880268
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: b55e1a10be6445ffb8dae37fd979009c
+run_name: stylish-bat-67
+run_uuid: b55e1a10be6445ffb8dae37fd979009c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970880103
+status: 3
+tags: []
+user_id: sgphu

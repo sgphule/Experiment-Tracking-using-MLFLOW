@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/eaa07e5a27d4471e91eb9d1593f74388/artifacts
+end_time: 1756934429804
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: eaa07e5a27d4471e91eb9d1593f74388
+run_name: unique-chimp-934
+run_uuid: eaa07e5a27d4471e91eb9d1593f74388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934429500
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/d8dc279fd8324a3da2576173f432f864/artifacts
+end_time: 1756970878921
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: d8dc279fd8324a3da2576173f432f864
+run_name: legendary-panda-40
+run_uuid: d8dc279fd8324a3da2576173f432f864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970878743
+status: 3
+tags: []
+user_id: sgphu

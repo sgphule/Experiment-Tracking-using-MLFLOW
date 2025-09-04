@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/851907877999742124/cf6dea58f03149f388126f441ed1774e/artifacts
+end_time: 1756971201000
+entry_point_name: ''
+experiment_id: '851907877999742124'
+lifecycle_stage: active
+run_id: cf6dea58f03149f388126f441ed1774e
+run_name: merciful-sow-512
+run_uuid: cf6dea58f03149f388126f441ed1774e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971200758
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/aabe56ed980446feb5f5677c90cec9bf/artifacts
+end_time: 1756970315650
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: aabe56ed980446feb5f5677c90cec9bf
+run_name: puzzled-worm-171
+run_uuid: aabe56ed980446feb5f5677c90cec9bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970315494
+status: 3
+tags: []
+user_id: sgphu

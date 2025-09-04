@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/4a6d6bcc890f4f3badec8c1291345fa0/artifacts
+end_time: 1756970783122
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 4a6d6bcc890f4f3badec8c1291345fa0
+run_name: peaceful-moth-947
+run_uuid: 4a6d6bcc890f4f3badec8c1291345fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970782953
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/13afa590ad454df7b74b95fa99519c45/artifacts
+end_time: 1756970315465
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 13afa590ad454df7b74b95fa99519c45
+run_name: fortunate-asp-83
+run_uuid: 13afa590ad454df7b74b95fa99519c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970315332
+status: 3
+tags: []
+user_id: sgphu

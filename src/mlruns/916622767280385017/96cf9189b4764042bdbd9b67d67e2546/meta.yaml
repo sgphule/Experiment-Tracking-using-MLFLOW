@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/96cf9189b4764042bdbd9b67d67e2546/artifacts
+end_time: 1756934428959
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 96cf9189b4764042bdbd9b67d67e2546
+run_name: bittersweet-hare-492
+run_uuid: 96cf9189b4764042bdbd9b67d67e2546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934428816
+status: 3
+tags: []
+user_id: sgphu

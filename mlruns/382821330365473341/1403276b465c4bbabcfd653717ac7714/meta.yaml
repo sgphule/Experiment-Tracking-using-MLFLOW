@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/1403276b465c4bbabcfd653717ac7714/artifacts
+end_time: 1756972092860
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 1403276b465c4bbabcfd653717ac7714
+run_name: luxuriant-gnu-580
+run_uuid: 1403276b465c4bbabcfd653717ac7714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972092497
+status: 3
+tags: []
+user_id: sgphu

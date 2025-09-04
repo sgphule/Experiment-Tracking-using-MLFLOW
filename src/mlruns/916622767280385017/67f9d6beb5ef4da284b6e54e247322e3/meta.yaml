@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/67f9d6beb5ef4da284b6e54e247322e3/artifacts
+end_time: 1756933979962
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 67f9d6beb5ef4da284b6e54e247322e3
+run_name: capricious-cat-543
+run_uuid: 67f9d6beb5ef4da284b6e54e247322e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756933979853
+status: 3
+tags: []
+user_id: sgphu

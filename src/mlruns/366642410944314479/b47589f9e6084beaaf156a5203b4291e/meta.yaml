@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/b47589f9e6084beaaf156a5203b4291e/artifacts
+end_time: 1756970316814
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: b47589f9e6084beaaf156a5203b4291e
+run_name: gaudy-horse-381
+run_uuid: b47589f9e6084beaaf156a5203b4291e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970316602
+status: 3
+tags: []
+user_id: sgphu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/7e23fcc6b2cd472f8519968a87c94866/artifacts
+end_time: 1756971120158
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 7e23fcc6b2cd472f8519968a87c94866
+run_name: rogue-auk-273
+run_uuid: 7e23fcc6b2cd472f8519968a87c94866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971092502
+status: 3
+tags: []
+user_id: sgphu

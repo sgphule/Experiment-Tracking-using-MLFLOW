@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/cb2bf3e4d5454b20b0c2e4d1f67fb9f6/artifacts
+end_time: 1756970878132
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: cb2bf3e4d5454b20b0c2e4d1f67fb9f6
+run_name: adaptable-frog-983
+run_uuid: cb2bf3e4d5454b20b0c2e4d1f67fb9f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970877943
+status: 3
+tags: []
+user_id: sgphu

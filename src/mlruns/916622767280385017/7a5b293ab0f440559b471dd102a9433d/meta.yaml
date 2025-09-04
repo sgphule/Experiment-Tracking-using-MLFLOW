@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/7a5b293ab0f440559b471dd102a9433d/artifacts
+end_time: 1756969659550
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 7a5b293ab0f440559b471dd102a9433d
+run_name: adventurous-bee-196
+run_uuid: 7a5b293ab0f440559b471dd102a9433d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969659300
+status: 3
+tags: []
+user_id: sgphu

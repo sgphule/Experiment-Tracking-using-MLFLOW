@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/f888624035d94fc396289887ad465c4e/artifacts
+end_time: 1756970879701
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: f888624035d94fc396289887ad465c4e
+run_name: abrasive-slug-927
+run_uuid: f888624035d94fc396289887ad465c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970879471
+status: 3
+tags: []
+user_id: sgphu

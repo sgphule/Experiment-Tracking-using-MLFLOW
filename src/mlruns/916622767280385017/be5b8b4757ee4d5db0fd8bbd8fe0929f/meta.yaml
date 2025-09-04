@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/be5b8b4757ee4d5db0fd8bbd8fe0929f/artifacts
+end_time: 1756934228769
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: be5b8b4757ee4d5db0fd8bbd8fe0929f
+run_name: trusting-squid-84
+run_uuid: be5b8b4757ee4d5db0fd8bbd8fe0929f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934228637
+status: 3
+tags: []
+user_id: sgphu

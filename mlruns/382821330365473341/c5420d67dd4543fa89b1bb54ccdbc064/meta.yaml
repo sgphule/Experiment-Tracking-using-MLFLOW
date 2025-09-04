@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/c5420d67dd4543fa89b1bb54ccdbc064/artifacts
+end_time: 1756972091932
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: c5420d67dd4543fa89b1bb54ccdbc064
+run_name: handsome-loon-361
+run_uuid: c5420d67dd4543fa89b1bb54ccdbc064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972091727
+status: 3
+tags: []
+user_id: sgphu

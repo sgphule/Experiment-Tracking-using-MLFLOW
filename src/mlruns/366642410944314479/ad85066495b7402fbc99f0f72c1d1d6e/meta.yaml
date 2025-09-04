@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/ad85066495b7402fbc99f0f72c1d1d6e/artifacts
+end_time: 1756969928936
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: ad85066495b7402fbc99f0f72c1d1d6e
+run_name: bustling-horse-761
+run_uuid: ad85066495b7402fbc99f0f72c1d1d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969928780
+status: 3
+tags: []
+user_id: sgphu

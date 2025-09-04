@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/2049a428bd7244f1b9d3670d36c41b82/artifacts
+end_time: 1756969656532
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 2049a428bd7244f1b9d3670d36c41b82
+run_name: shivering-robin-341
+run_uuid: 2049a428bd7244f1b9d3670d36c41b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969656365
+status: 3
+tags: []
+user_id: sgphu

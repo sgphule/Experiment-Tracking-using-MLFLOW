@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/366642410944314479/25b28a8d33f5450ab60b32fb7f0f745a/artifacts
+end_time: 1756970316572
+entry_point_name: ''
+experiment_id: '366642410944314479'
+lifecycle_stage: active
+run_id: 25b28a8d33f5450ab60b32fb7f0f745a
+run_name: industrious-hare-564
+run_uuid: 25b28a8d33f5450ab60b32fb7f0f745a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970316423
+status: 3
+tags: []
+user_id: sgphu

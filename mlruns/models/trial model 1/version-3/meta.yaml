@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1756973527527
+current_stage: None
+description: ''
+last_updated_timestamp: 1756973527527
+name: trial model 1
+run_id: fce150b5089f43d98f35d5217227303e
+run_link: ''
+source: models:/trial model 1/2
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/851907877999742124/fce150b5089f43d98f35d5217227303e/artifacts/random_forest
+user_id: null
+version: 3

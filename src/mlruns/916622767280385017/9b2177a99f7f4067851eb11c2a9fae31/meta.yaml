@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/9b2177a99f7f4067851eb11c2a9fae31/artifacts
+end_time: 1756933980994
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 9b2177a99f7f4067851eb11c2a9fae31
+run_name: gentle-conch-512
+run_uuid: 9b2177a99f7f4067851eb11c2a9fae31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756933980891
+status: 3
+tags: []
+user_id: sgphu

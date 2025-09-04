@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/616a207be15d4bb4bd404ecc91e6df9a/artifacts
+end_time: 1756970947500
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 616a207be15d4bb4bd404ecc91e6df9a
+run_name: glamorous-mink-891
+run_uuid: 616a207be15d4bb4bd404ecc91e6df9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970947359
+status: 3
+tags: []
+user_id: sgphu

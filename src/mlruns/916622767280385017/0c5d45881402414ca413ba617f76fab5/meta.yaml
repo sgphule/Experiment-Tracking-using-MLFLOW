@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/src/mlruns/916622767280385017/0c5d45881402414ca413ba617f76fab5/artifacts
+end_time: 1756934428663
+entry_point_name: ''
+experiment_id: '916622767280385017'
+lifecycle_stage: active
+run_id: 0c5d45881402414ca413ba617f76fab5
+run_name: legendary-skink-182
+run_uuid: 0c5d45881402414ca413ba617f76fab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756934428499
+status: 3
+tags: []
+user_id: sgphu

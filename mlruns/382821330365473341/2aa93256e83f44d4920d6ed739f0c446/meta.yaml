@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/2aa93256e83f44d4920d6ed739f0c446/artifacts
+end_time: 1756971103972
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 2aa93256e83f44d4920d6ed739f0c446
+run_name: angry-midge-503
+run_uuid: 2aa93256e83f44d4920d6ed739f0c446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971103828
+status: 3
+tags: []
+user_id: sgphu

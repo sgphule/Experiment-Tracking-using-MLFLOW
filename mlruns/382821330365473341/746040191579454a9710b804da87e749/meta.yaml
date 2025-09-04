@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/746040191579454a9710b804da87e749/artifacts
+end_time: 1756970947668
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 746040191579454a9710b804da87e749
+run_name: illustrious-croc-784
+run_uuid: 746040191579454a9710b804da87e749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970947528
+status: 3
+tags: []
+user_id: sgphu

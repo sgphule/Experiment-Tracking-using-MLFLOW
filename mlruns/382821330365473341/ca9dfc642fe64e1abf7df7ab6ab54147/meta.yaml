@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/ca9dfc642fe64e1abf7df7ab6ab54147/artifacts
+end_time: 1756970948712
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: ca9dfc642fe64e1abf7df7ab6ab54147
+run_name: invincible-fawn-36
+run_uuid: ca9dfc642fe64e1abf7df7ab6ab54147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970948535
+status: 3
+tags: []
+user_id: sgphu

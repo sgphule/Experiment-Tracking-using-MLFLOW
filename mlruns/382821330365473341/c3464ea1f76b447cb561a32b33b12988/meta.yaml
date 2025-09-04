@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/c3464ea1f76b447cb561a32b33b12988/artifacts
+end_time: 1756971106428
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: c3464ea1f76b447cb561a32b33b12988
+run_name: gregarious-snipe-840
+run_uuid: c3464ea1f76b447cb561a32b33b12988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971106228
+status: 3
+tags: []
+user_id: sgphu

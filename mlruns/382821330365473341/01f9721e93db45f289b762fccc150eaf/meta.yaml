@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/01f9721e93db45f289b762fccc150eaf/artifacts
+end_time: 1756970880500
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: 01f9721e93db45f289b762fccc150eaf
+run_name: nervous-seal-18
+run_uuid: 01f9721e93db45f289b762fccc150eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970880298
+status: 3
+tags: []
+user_id: sgphu

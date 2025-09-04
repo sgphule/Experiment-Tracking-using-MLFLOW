@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sgphu/PycharmProjects/Experiment-Tracking-using-MLFLOW/mlruns/382821330365473341/c557c1d1a6554173a5fcbf2873b2db02/artifacts
+end_time: 1756972093565
+entry_point_name: ''
+experiment_id: '382821330365473341'
+lifecycle_stage: active
+run_id: c557c1d1a6554173a5fcbf2873b2db02
+run_name: amazing-carp-953
+run_uuid: c557c1d1a6554173a5fcbf2873b2db02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972093330
+status: 3
+tags: []
+user_id: sgphu
